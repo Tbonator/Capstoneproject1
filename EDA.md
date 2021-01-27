@@ -180,5 +180,3 @@ Note :- here +3 means risky vehicle and -2 means safe vehicle
 
 **THIS REPORT WAS WRITTEN BY : Thabo Moeketsi**
 
-![](media/image16.jpg){width="6.270833333333333in"
-height="0.19444444444444445in"}
