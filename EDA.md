@@ -1,12 +1,5 @@
-![](media/image1.png){width="3.6063757655293087in"
-height="0.793403324584427in"}
-
-**TASK**
 
 **Exploratory Data Analysis on the Automobile Data Set**
-
-[![](media/image2.jpg){width="2.3541666666666665in"
-height="0.6329232283464566in"}](http://www.hyperiondev.com/portal/)
 
 **Introduction**
 
