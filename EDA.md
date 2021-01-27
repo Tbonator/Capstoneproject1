@@ -34,13 +34,11 @@ Used to replace the NaNs in columns by the mode of values in that column
 
 **Before data impunity graph looked like this**
 
-![](media/image3.png){width="5.418181321084864in"
-height="2.2041666666666666in"}
+![](media/image3.png)
 
 -   **Data after data impunity**
 
-![](media/image4.png){width="4.878472222222222in"
-height="2.0909722222222222in"}
+![](media/image4.png)
 
 MISSING DATA
 
@@ -50,7 +48,7 @@ Data impunity using mean and mode was used to deal with missing data.
 
 DATA STORIES AND VISUALIZATIONS
 
-![](media/image5.png){width="4.2in" height="2.564583333333333in"}
+![](media/image5.png)
 
 Findings
 
@@ -64,8 +62,7 @@ Findings
 
 -   peak rpm is mostly distributed between 4600 to 5700
 
-![](media/image6.png){width="4.043917322834646in"
-height="3.226087051618548in"}
+![](media/image6.png)
 
 **Findings**
 
@@ -78,8 +75,7 @@ height="3.226087051618548in"}
 -   Most produced vehicle are of body style sedan around 48% followed by
     > hatchback 32%
 
-![](media/image7.png){width="5.216247812773403in"
-height="2.9304352580927384in"}
+![](media/image7.png)
 
 **Findings**
 
@@ -89,17 +85,13 @@ height="2.9304352580927384in"}
 
 **Price Analysis**
 
-![](media/image8.png){width="6.270138888888889in"
-height="2.7368055555555557in"}
+![](media/image8.png)
 
-![](media/image9.png){width="6.270138888888889in"
-height="2.3652777777777776in"}
+![](media/image9.png)
 
-![](media/image10.png){width="6.229861111111111in"
-height="3.173912948381452in"}
+![](media/image10.png)
 
-![](media/image11.png){width="6.270138888888889in"
-height="3.1791666666666667in"}
+![](media/image11.png)
 
 **Findings**
 
@@ -122,11 +114,8 @@ height="3.1791666666666667in"}
 
 -   rwd wheel drive vehicle have expensive prices
 
-![](media/image12.png){width="6.270138888888889in"
-height="2.522222222222222in"}
-
-![](media/image13.png){width="6.295138888888889in"
-height="3.8948075240594924in"}
+![](media/image12.png)
+![](media/image13.png)
 
 **Findings**
 
@@ -144,7 +133,7 @@ height="3.8948075240594924in"}
 
 -   Vehicle with above 200 horsepower has Eight Twelve Six cyclinders
 
-> ![](media/image14.png){width="5.1125in" height="2.5217388451443568in"}
+> ![](media/image14.png)
 
 **Losses Findings**
 
@@ -160,7 +149,7 @@ Note :- here +3 means risky vehicle and -2 means safe vehicle
 
 -   sedan and Wagon car has losses even in less risk (safe)rating
 
-![](media/image15.png){width="6.270138888888889in" height="5.7875in"}
+![](media/image15.png)
 
 **Findings**
 
